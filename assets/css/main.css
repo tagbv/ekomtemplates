@@ -18,7 +18,7 @@
     box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
     position: fixed;
     z-index: 9999;
-    background-color: var(--white-color);
+    background-color: #fff;
 }
 
 .header {
@@ -56,7 +56,7 @@ li {
     margin-right: 20px;
     position: absolute;
     top: 60px;
-    background-color: var(--white-color);
+    background-color: #fff;
     left: 0;
     box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
     display: none;
@@ -112,9 +112,7 @@ li {
     margin-right: 10px;
 }
 
-.fa-bars {
-    color: var(--white-color);
-}
+
 
 #nav .nav-arrow-down {
     font-size: 10px;
